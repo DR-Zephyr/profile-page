@@ -1,5 +1,5 @@
 # Hola, mi nombre es Emmanuel Cruz 👋
-### Becoming a full stack web developer
+### Camino a ser desarrollador Full Stack
 
 Soy Emmanuel Cruz Balcacer, un estudiante de último año de Ingeniería de Software en la Universidad Adventista Dominicana. Me estoy especializando en desarrollo web frontend, pero mi objetivo es convertirme en un desarrollador full stack. Aunque aún no he trabajado en un entorno empresarial, estoy en proceso de postulación para una pasantía en Barrick, una empresa minera.
 
